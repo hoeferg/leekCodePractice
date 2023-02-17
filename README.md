@@ -1,6 +1,6 @@
 # leekCodePracticeJava
 
-<img src="coding-gc68c1e1a2_1920"/>
+<img src="code.png"/>
 
 ## Table of Contents  
 * [Description](##Description)  
